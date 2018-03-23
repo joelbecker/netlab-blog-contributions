@@ -1,0 +1,10 @@
+Name,Description
+Trust Your Friends,"Specify a trusted source, whose values will be prioritized over the less trusted source."
+No Gossiping,"If the values match keep them. If there is a conflict, no value is kept. A very conservative strategy."
+Roll the Dice,Choose a random value.
+Cry With the Wolves,Take a vote and use the most common value.
+Pass It On,"Don't handle conflicting values. Instead, pass on all of the options in a collection and handle them later."
+Meet in the Middle,"Aggregate conflicting numerical values. For example, take the mean of the observed values."
+Keep Up to Date,Choose the most recently updated value by comparing timestamps.
+Choose by Scored Value,Choose the value that scores the highest (or lowest) on a user-specified scoring function.
+Choose by Scored Metadata,Choose the value with a corresponding metadata value that scores the highest (or lowest) on a user-specified scoring function.
