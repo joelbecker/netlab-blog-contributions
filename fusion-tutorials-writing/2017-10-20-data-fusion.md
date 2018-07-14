@@ -45,6 +45,12 @@ Welcome to the fifth installment of NetLab's tutorial series on the [_recordlink
 5. [Data Fusion](http:/2018/01/02/2018-01-02-data-fusion/)
 6. Evaluation (Coming soon...)
 
+# IMPORTANT DISCLAIMER
+
+This is a draft tutorial, which will remain unpublished until in-progress features of the `recordlinkage` package are added into the official distribution of `recordlinkage`. In particular, I'd like to highlight a things:
+* The data fusion extension for `recordlinkage` is currently unavilable in the official distribution. Unfortunately, there is not a stable / up-to-date version of these features.
+* The follow-up articles discussed in the "preliminaries" section have not yet been written.
+
 # Preliminaries
 
 This tutorial assumes that you have basic knowledge of Python programming, and are acquainted with indexing, comparing, and classifying candidate links with `recordlinkage`. The purpose of this tutorial is to introduce the basic of data fusion to the average `recordlinkage` user. Advanced users may find our follow-up tutorials, [Data Fusion with recordlinkage: Conflict handling for power-users](http:/2018/01/02/2018-01-02-conflict-handling/) and [Data Fusion with recordlinkage: a Developer's Guide](http:/2018/01/02/2018-01-02-fuse-dev/), helpful for getting the most out of these tools.
